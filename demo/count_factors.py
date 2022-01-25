@@ -1,6 +1,6 @@
 # Count no. of factors
 
-num = int(input("Enter number : ")) 
+num = int(input("Enter number : "))
 
 count = 0
 for n in range(2, num//2 + 1):
