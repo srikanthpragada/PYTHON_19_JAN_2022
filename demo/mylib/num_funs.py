@@ -3,6 +3,11 @@ PI = 3.14
 
 
 def iseven(n):
+    """
+    Returns true if the given number is even otherwise false
+    :param n:  number to check
+    :return:  True/False
+    """
     return n % 2 == 0
 
 
