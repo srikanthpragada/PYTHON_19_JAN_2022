@@ -15,6 +15,8 @@ class Account:
 
     # Methods
     def deposit(self, amount):
+        if amount < 1:
+            raise ValueError("Invalid Amount!")
         self.balance += amount
 
     def withdraw(self, amount):
