@@ -1,0 +1,5 @@
+<courses>
+    <course title="AWS" duration="24" fee="3500"/>
+    <course title="Front-end Web Dev." duration="30" fee="3000"/>
+    <course title="Data Science" duration="36" fee="5000"/>
+</courses>
